@@ -42,10 +42,10 @@ Currently, I architect multi-site active-active hybrid cloud infrastructure supp
 
 | Repository | Focus & Architecture Highlights | Key Tech Stack |
 | :--- | :--- | :--- |
+| 🏆 [**`azure-local-aiops-observability`**](https://github.com/budi-yohanes/azure-local-aiops-observability) | **FLAGSHIP CLOUD ARCHITECT PORTFOLIO DESIGN:** Full enterprise hybrid cloud blueprint for 200k+ subscribers billing platform, Azure Local HCI, SDN, HAProxy ADC, Galera Percona DB, GitHub Actions CI + Gitea Backup Mirror, ArgoCD, and AIOps log telemetry. | `Azure Stack HCI` `AKS Arc` `Juniper` `Grafana Alloy` `YugabyteDB` |
 | 📂 [**`azure-bicep-iac`**](https://github.com/budi-yohanes/azure-bicep-iac) | **Enterprise Azure Bicep Modular IaC:** Production IaC provisioning Resource Groups, VNets/NSGs, Azure Key Vault, Managed Identity RBAC, Private Endpoints, and Azure Local HCI VMs / AKS Arc. | `Bicep` `Azure Local` `Managed Identity` `Private Endpoints` |
 | 📂 [**`thc-gitops`**](https://github.com/budi-yohanes/thc-gitops) | **Multi-Site K8s GitOps Infrastructure:** Declarative ArgoCD App-of-Apps & ApplicationSets pattern managing multi-cluster tenant workloads across active-active data centers with zero-downtime. | `ArgoCD` `Kubernetes` `Helm` `Kustomize` `Azure Arc` |
 | 📂 [**`azure-devops-cicd`**](https://github.com/budi-yohanes/azure-devops-cicd) | **Production Enterprise CI/CD Pipeline:** Fully automated GitHub Actions workflow featuring Docker Buildx, Harbor Registry integration, Trivy CRITICAL security scanning, and automated GitOps tag synchronization. | `GitHub Actions` `Docker` `Harbor` `Trivy` `GitOps` |
-| 📂 [**`azure-local-aiops-observability`**](https://github.com/budi-yohanes/azure-local-aiops-observability) | **Azure Local (HCI) & Full-Stack AIOps Pipeline:** Enterprise hybrid cloud architecture, Juniper MX85 / Huawei syslog parsing runbooks, SNMP metrics exporters, Grafana Alloy/Loki ingestion, and YugabyteDB vector data pipelines. | `Azure Stack HCI` `Juniper` `Grafana Alloy` `Loki` `YugabyteDB` |
 | 📂 [**`azure-ops-automation`**](https://github.com/budi-yohanes/azure-ops-automation) | **Enterprise PowerShell & Bash Automation Suite:** Production automation utility suite for failover testing, multi-site backup verification, Entra ID hybrid sync checks, and automated log cleanup. | `PowerShell` `Bash` `S2D` `Entra ID` `NPS RADIUS` |
 
 ---
